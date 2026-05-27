@@ -1,0 +1,17 @@
+{
+  "id": "DSP_Freescale/DSP96002:DSP96002",
+  "name": "DSP96002",
+  "library": "DSP_Freescale",
+  "file": "DSP_Freescale.kicad_symdir/DSP96002.kicad_sym",
+  "description": "32-bit General Purpose Floating-point DSP, Dual Port, PGA-223",
+  "datasheet": "http://cache.freescale.com/files/dsp/doc/inactive/DSP96002.pdf",
+  "keywords": "DSP 32bit Dual Port Processor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-freescale@master/parts/DSP96002/",
+  "part_path": "parts/DSP96002",
+  "symbol_file": "parts/DSP96002/DSP96002.kicad_sym",
+  "source_library": "DSP_Freescale.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:35.082Z"
+}
